@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biruktadele/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
