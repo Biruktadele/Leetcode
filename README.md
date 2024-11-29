@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Biruktadele/Leetcode/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/Biruktadele/Leetcode/tree/master/0048-rotate-image) |
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biruktadele/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Biruktadele/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Biruktadele/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
