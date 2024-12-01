@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Biruktadele/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Biruktadele/Leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Biruktadele/Leetcode/tree/master/0065-valid-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Biruktadele/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Biruktadele/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Biruktadele/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0409-longest-palindrome) |
