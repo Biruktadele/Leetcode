@@ -1,6 +1,6 @@
 class Solution:
     def maxCount(self, banned: List[int], n: int, maxSum: int) -> int:
-        banned.sort()
+        # banned.sort()
         d = {}
 
         for i in banned:
@@ -14,6 +14,9 @@ class Solution:
                 s += i
                 c += 1
                 ans.append(i)
+            if s + i > maxSum:
+                break
+
         # print(banned[0:7])
         # print(ans)
         return c
