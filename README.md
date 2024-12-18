@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Biruktadele/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Biruktadele/Leetcode/tree/master/0062-unique-paths) |
 | [0319-bulb-switcher](https://github.com/Biruktadele/Leetcode/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Biruktadele/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Ordered Set
 |  |
 | ------- |
