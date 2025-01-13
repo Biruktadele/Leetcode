@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Biruktadele/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Biruktadele/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Biruktadele/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Ordered Set
 |  |
 | ------- |
