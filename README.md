@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Biruktadele/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Biruktadele/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Biruktadele/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3699-count-special-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/3699-count-special-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Biruktadele/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3699-count-special-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/3699-count-special-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Biruktadele/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3699-count-special-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/3699-count-special-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Biruktadele/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [3699-count-special-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/3699-count-special-subsequences) |
 <!---LeetCode Topics End-->
