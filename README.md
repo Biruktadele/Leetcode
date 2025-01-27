@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Biruktadele/Leetcode/tree/master/0065-valid-number) |
 | [0214-shortest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0409-longest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Biruktadele/Leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Biruktadele/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Biruktadele/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Biruktadele/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Biruktadele/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Biruktadele/Leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Biruktadele/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Biruktadele/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
