@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biruktadele/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0858-masking-personal-information](https://github.com/Biruktadele/Leetcode/tree/master/0858-masking-personal-information) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Biruktadele/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Biruktadele/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
