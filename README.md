@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Biruktadele/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Biruktadele/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Biruktadele/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Biruktadele/Leetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Biruktadele/Leetcode/tree/master/2509-minimize-xor) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Biruktadele/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Biruktadele/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Biruktadele/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Biruktadele/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Biruktadele/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Biruktadele/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Biruktadele/Leetcode/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Biruktadele/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Biruktadele/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Biruktadele/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Biruktadele/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Biruktadele/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Biruktadele/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Biruktadele/Leetcode/tree/master/0326-power-of-three) |
