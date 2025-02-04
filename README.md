@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biruktadele/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Biruktadele/Leetcode/tree/master/0858-masking-personal-information) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Biruktadele/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0854-making-a-large-island](https://github.com/Biruktadele/Leetcode/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Biruktadele/Leetcode/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/Biruktadele/Leetcode/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Biruktadele/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Biruktadele/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Biruktadele/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
