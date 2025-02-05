@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Biruktadele/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Biruktadele/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Biruktadele/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Biruktadele/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Biruktadele/Leetcode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Biruktadele/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Biruktadele/Leetcode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Biruktadele/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Biruktadele/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Biruktadele/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Biruktadele/Leetcode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Biruktadele/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0971-shortest-bridge](https://github.com/Biruktadele/Leetcode/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Biruktadele/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
