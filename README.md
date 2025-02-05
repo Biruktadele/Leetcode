@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Biruktadele/Leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Biruktadele/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biruktadele/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Biruktadele/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Biruktadele/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0876-hand-of-straights](https://github.com/Biruktadele/Leetcode/tree/master/0876-hand-of-straights) |
