@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0722-remove-comments](https://github.com/Biruktadele/Leetcode/tree/master/0722-remove-comments) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0854-making-a-large-island](https://github.com/Biruktadele/Leetcode/tree/master/0854-making-a-large-island) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0854-making-a-large-island](https://github.com/Biruktadele/Leetcode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0898-transpose-matrix) |
