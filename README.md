@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Biruktadele/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Biruktadele/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Biruktadele/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Biruktadele/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Biruktadele/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Biruktadele/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/Biruktadele/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Biruktadele/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
