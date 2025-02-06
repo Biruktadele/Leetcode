@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Biruktadele/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Biruktadele/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Biruktadele/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Biruktadele/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Biruktadele/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Biruktadele/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Biruktadele/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Biruktadele/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Biruktadele/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Biruktadele/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Biruktadele/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
