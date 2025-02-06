@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0722-remove-comments](https://github.com/Biruktadele/Leetcode/tree/master/0722-remove-comments) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Biruktadele/Leetcode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Biruktadele/Leetcode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
