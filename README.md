@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Biruktadele/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Biruktadele/Leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Biruktadele/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Biruktadele/Leetcode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0898-transpose-matrix) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Biruktadele/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Biruktadele/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0777-toeplitz-matrix) |
