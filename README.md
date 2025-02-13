@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Biruktadele/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Biruktadele/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Biruktadele/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Biruktadele/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Biruktadele/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biruktadele/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Biruktadele/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Biruktadele/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Biruktadele/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Biruktadele/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Biruktadele/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Biruktadele/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Biruktadele/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Biruktadele/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Biruktadele/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Biruktadele/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Biruktadele/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
