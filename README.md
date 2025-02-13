@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/Biruktadele/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Biruktadele/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Biruktadele/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Biruktadele/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2868-continuous-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biruktadele/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
