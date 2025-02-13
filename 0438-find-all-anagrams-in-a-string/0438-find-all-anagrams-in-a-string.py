@@ -33,7 +33,5 @@ class Solution:
                 l += 1
                 r += 1
                 continue
-            # print(window,s[r])
             r += 1
         return ans
-
