@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Biruktadele/Leetcode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Biruktadele/Leetcode/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Biruktadele/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biruktadele/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Biruktadele/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Biruktadele/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Biruktadele/Leetcode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Biruktadele/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Biruktadele/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Biruktadele/Leetcode/tree/master/1009-pancake-sorting) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Biruktadele/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/Biruktadele/Leetcode/tree/master/1449-print-words-vertically) |
