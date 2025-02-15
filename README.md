@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Biruktadele/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Biruktadele/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1449-print-words-vertically](https://github.com/Biruktadele/Leetcode/tree/master/1449-print-words-vertically) |
 | [1502-construct-k-palindrome-strings](https://github.com/Biruktadele/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Biruktadele/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Biruktadele/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biruktadele/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Biruktadele/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
