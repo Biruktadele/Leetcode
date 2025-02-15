@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Biruktadele/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Biruktadele/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Biruktadele/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Biruktadele/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biruktadele/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Biruktadele/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Biruktadele/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Biruktadele/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Biruktadele/Leetcode/tree/master/0179-largest-number) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Biruktadele/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Biruktadele/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Biruktadele/Leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Biruktadele/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Biruktadele/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Biruktadele/Leetcode/tree/master/0292-nim-game) |
