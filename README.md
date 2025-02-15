@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Biruktadele/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Biruktadele/Leetcode/tree/master/2502-sort-the-people) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Biruktadele/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Biruktadele/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Biruktadele/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Biruktadele/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biruktadele/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Biruktadele/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Biruktadele/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/Biruktadele/Leetcode/tree/master/3447-clear-digits) |
 ## Array
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Biruktadele/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Biruktadele/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Biruktadele/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Biruktadele/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Biruktadele/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Biruktadele/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Biruktadele/Leetcode/tree/master/3447-clear-digits) |
