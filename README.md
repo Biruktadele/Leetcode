@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [0971-shortest-bridge](https://github.com/Biruktadele/Leetcode/tree/master/0971-shortest-bridge) |
 | [1009-pancake-sorting](https://github.com/Biruktadele/Leetcode/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Biruktadele/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Biruktadele/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Biruktadele/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1063-best-sightseeing-pair](https://github.com/Biruktadele/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Biruktadele/Leetcode/tree/master/0876-hand-of-straights) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Biruktadele/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Biruktadele/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Biruktadele/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Biruktadele/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Biruktadele/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Biruktadele/Leetcode/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Biruktadele/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Biruktadele/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Biruktadele/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Biruktadele/Leetcode/tree/master/1603-running-sum-of-1d-array) |
