@@ -6,7 +6,6 @@ class Solution:
             pre[i[1]+1] -= 1
         for i in range(1,len(nums)):
             pre[i] += pre[i-1]
-        print(pre)
         pre.sort(reverse=True)
         nums.sort(reverse=True)
         sum = 0
