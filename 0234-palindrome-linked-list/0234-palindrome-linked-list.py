@@ -20,4 +20,3 @@ class Solution:
             
 
         return palenderom(head,head)[0]
-        
