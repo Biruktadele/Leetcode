@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Biruktadele/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Biruktadele/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2107-find-unique-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Biruktadele/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Biruktadele/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Biruktadele/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/Biruktadele/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2107-find-unique-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Biruktadele/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/Biruktadele/Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Biruktadele/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Biruktadele/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Biruktadele/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biruktadele/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biruktadele/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Biruktadele/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Biruktadele/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Biruktadele/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2434-design-a-number-container-system](https://github.com/Biruktadele/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
