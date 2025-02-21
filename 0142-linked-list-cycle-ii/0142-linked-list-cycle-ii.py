@@ -6,18 +6,19 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        temp = head
-        c = 1
-       
+        c = 0
+        nxt = head
+        while nxt:
+            
+            if type(nxt.val) == list:
+                return nxt
+            else:
+                nxt.val = [nxt.val]
+            nxt = nxt.next
+        
 
-        while temp != None:
-            # print(temp.val)
-            temp.val = list(str(temp.val))
-            x = temp.val[-1]
 
-            if x.isalpha():
-                return temp
-            temp.val = str(c) +"aa"
-            temp = temp.next
+        
+
     
         
