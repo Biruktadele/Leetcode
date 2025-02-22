@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Biruktadele/Leetcode/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Biruktadele/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Biruktadele/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Biruktadele/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Biruktadele/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Biruktadele/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-shortest-bridge](https://github.com/Biruktadele/Leetcode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Biruktadele/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Biruktadele/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Biruktadele/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Biruktadele/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Biruktadele/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
