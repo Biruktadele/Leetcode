@@ -1,20 +1,16 @@
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        from typing import List
-
-class Solution:
-    def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        remainder_map = {0: -1}
-        cumulative_sum = 0
-
-        for i, num in enumerate(nums):
-            cumulative_sum += num
-            remainder = cumulative_sum % k
-
-            if remainder in remainder_map:
-                if i - remainder_map[remainder] > 1:
-                    return True
-            else:
-                remainder_map[remainder] = i
-
+        pre = defaultdict(int)
+        pre[0] = -1
+        s = 0
+        for i, val in enumerate(nums):
+            s += val
+            rem = s % k
+            if rem in pre and i - pre[rem] > 1:
+                return True
+            if rem not in pre:
+                pre[rem] = i
+            
+        
         return False
+        
