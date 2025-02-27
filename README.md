@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Biruktadele/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Biruktadele/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Biruktadele/Leetcode/tree/master/1582-design-browser-history) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Biruktadele/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Biruktadele/Leetcode/tree/master/0971-shortest-bridge) |
+| [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1009-pancake-sorting](https://github.com/Biruktadele/Leetcode/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biruktadele/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/Biruktadele/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0898-transpose-matrix) |
+| [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Biruktadele/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1184-car-pooling](https://github.com/Biruktadele/Leetcode/tree/master/1184-car-pooling) |
 | [1449-print-words-vertically](https://github.com/Biruktadele/Leetcode/tree/master/1449-print-words-vertically) |
