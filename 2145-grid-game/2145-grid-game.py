@@ -1,12 +1,18 @@
+
 class Solution:
     def gridGame(self, grid: List[List[int]]) -> int:
-        min_result = float('inf')
-        row1_sum = sum(grid[0])
-        row2_sum = 0
-        
-        for i in range(len(grid[0])):
-            row1_sum -= grid[0][i]
-            min_result = min(min_result, max(row1_sum, row2_sum))
-            row2_sum += grid[1][i]
-        
-        return min_result
+        n = len(grid[0])
+
+        top = [0] * (n + 1)
+        bottom = [0] * (n + 1)
+        for i in range(n):
+            top[i + 1] = top[i] + grid[0][i]
+            bottom[i + 1] = bottom[i] + grid[1][i]
+        robot2 = float('inf')
+        for i in range(n):
+            right = top[n] - top[i + 1]
+            left = bottom[i]
+
+            robot2 = min(robot2, max(right, left))
+
+        return robot2
