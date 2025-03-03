@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Biruktadele/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Biruktadele/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Biruktadele/Leetcode/tree/master/0735-asteroid-collision) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Biruktadele/Leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Biruktadele/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Biruktadele/Leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Biruktadele/Leetcode/tree/master/0525-contiguous-array) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Biruktadele/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
