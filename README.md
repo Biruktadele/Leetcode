@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Biruktadele/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Biruktadele/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Biruktadele/Leetcode/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/Biruktadele/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Biruktadele/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Biruktadele/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Biruktadele/Leetcode/tree/master/0179-largest-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Biruktadele/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Biruktadele/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Biruktadele/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Biruktadele/Leetcode/tree/master/0155-min-stack) |
