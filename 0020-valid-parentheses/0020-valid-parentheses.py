@@ -2,15 +2,14 @@ class Solution:
     def isValid(self, s: str) -> bool:
         dic = {")" : "(" , "]":"[" ,  "}" :"{"}
 
-        stuck = []
+        stack = []
         for i in s:
-            if i in dic:
-                if stuck and dic[i] == stuck[-1]:
-                    stuck.pop()
+            if i not in dic:
+                stack.append(i)
+            else:
+                if stack and stack[-1] == dic[i]:
+                    stack.pop()
                 else:
                     return False
-            else:
-                stuck.append(i)
-        return not stuck
-
+        return not bool(stack)
         
