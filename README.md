@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Biruktadele/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Biruktadele/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Biruktadele/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Biruktadele/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Biruktadele/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Biruktadele/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Biruktadele/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Biruktadele/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Biruktadele/Leetcode/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Biruktadele/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Biruktadele/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Biruktadele/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Biruktadele/Leetcode/tree/master/0242-valid-anagram) |
