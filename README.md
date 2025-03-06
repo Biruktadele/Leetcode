@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Biruktadele/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Biruktadele/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Biruktadele/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Biruktadele/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Biruktadele/Leetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Biruktadele/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Biruktadele/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Biruktadele/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
