@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Biruktadele/Leetcode/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Biruktadele/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Biruktadele/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
