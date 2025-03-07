@@ -1,31 +1,25 @@
 class Solution:
     def closestPrimes(self, left: int, right: int) -> List[int]:
-        def is_prime(n):
-            """returns True if n is prime else False"""
-            if n < 5 or n & 1 == 0 or n % 3 == 0:
-                return 2 <= n <= 3
-            s = ((n - 1) & (1 - n)).bit_length() - 1
-            d = n >> s
-            for a in [2, 325, 9375, 28178, 450775, 9780504, 1795265022]:
-                p = pow(a, d, n)
-                if p == 1 or p == n - 1 or a % n == 0:
-                    continue
-                for _ in range(s):
-                    p = (p * p) % n
-                    if p == n - 1:
-                        break
-                else:
-                    return False
-            return True
-        ans = []
-        res = [-1,-1]
+        import math
+        from bisect import bisect_left
+        def prime_range(left,right):
+            arr = [True]*(right+1)
+            until = int(math.sqrt(right))+1
+            for i in range(2, until ):
+                j = i + i
+                while j <= right and arr[i] == True:
+                    arr[j] = False
+                    j += i
+            ans = [int(i) for i in range(right+1) if arr[i] == True]
+            x = bisect_left(ans,left)
+            if x < 2:
+                x = 2
+            return ans[x::]
+        num = prime_range(left,right)
         mn = float("inf")
-        for i in range(left, right+1):
-            if is_prime(i):
-                ans.append(i)
-            if len(ans) == 2:
-                if ans[-1] - ans[0] < mn:
-                    mn = ans[-1] - ans[0]
-                    res = ans[:]
-                ans = [i]
+        res = [-1,-1]
+        for i in range(1,len(num)):
+            if num[i]-num[i-1] < mn:
+                res = [num[i-1] , num[i]]
+                mn = num[i]-num[i-1]
         return res
