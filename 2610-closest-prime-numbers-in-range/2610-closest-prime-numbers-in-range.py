@@ -6,7 +6,7 @@ class Solution:
             arr = [True]*(right+1)
             until = int(math.sqrt(right))+1
             for i in range(2, until ):
-                j = i + i
+                j = i*i
                 while j <= right and arr[i] == True:
                     arr[j] = False
                     j += i
