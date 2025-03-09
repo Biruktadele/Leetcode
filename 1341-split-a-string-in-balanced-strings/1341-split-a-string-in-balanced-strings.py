@@ -1,6 +1,6 @@
 class Solution:
     def balancedStringSplit(self, s: str) -> int:
-        c = 0
+        cut = 0
         n = 0
         for i in s:
             if i == "L":
@@ -8,6 +8,6 @@ class Solution:
             else:
                 n += 1
             if n == 0:
-                c += 1
-        return c
+                cut += 1
+        return cut
         
