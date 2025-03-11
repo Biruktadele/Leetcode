@@ -1,9 +1,10 @@
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:
-        if n <= 0:
-            return False
-        n = log(n,4)
-        if n == math.ceil(n):
-            return True
-        return False
+        def pow4(n):
+            if n == 1:
+                return True
+            if n < 1:
+                return False
+            return pow4(n/4)
+        return pow4(n)
         
