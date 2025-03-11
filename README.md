@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biruktadele/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Biruktadele/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Biruktadele/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Biruktadele/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Stack
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Biruktadele/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Biruktadele/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3189-find-champion-ii](https://github.com/Biruktadele/Leetcode/tree/master/3189-find-champion-ii) |
 ## Simulation
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/Biruktadele/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Biruktadele/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1917-maximum-average-pass-ratio](https://github.com/Biruktadele/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/Biruktadele/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -1056,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Biruktadele/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Union Find
 |  |
 | ------- |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Biruktadele/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Biruktadele/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Design
 |  |
