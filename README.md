@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Biruktadele/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Biruktadele/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Biruktadele/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/Biruktadele/Leetcode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Biruktadele/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Biruktadele/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Biruktadele/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Biruktadele/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Biruktadele/Leetcode/tree/master/2050-count-good-numbers) |
 ## Combinatorics
 |  |
 | ------- |
