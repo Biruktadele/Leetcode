@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Biruktadele/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Biruktadele/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/Biruktadele/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0486-predict-the-winner](https://github.com/Biruktadele/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Biruktadele/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Biruktadele/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Biruktadele/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Biruktadele/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Biruktadele/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Biruktadele/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Biruktadele/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Biruktadele/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Biruktadele/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1013-fibonacci-number) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Biruktadele/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Biruktadele/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Biruktadele/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Biruktadele/Leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Biruktadele/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1070,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Biruktadele/Leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Biruktadele/Leetcode/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Biruktadele/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Trie
 |  |
