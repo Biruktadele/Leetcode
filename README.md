@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Biruktadele/Leetcode/tree/master/1184-car-pooling) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Biruktadele/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Biruktadele/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Biruktadele/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Biruktadele/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Biruktadele/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Biruktadele/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Biruktadele/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Biruktadele/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
