@@ -8,6 +8,7 @@ class Solution:
         back = ListNode()
         front = head
         first = True
+        
         while front:
             
             if front.val != val:
@@ -22,6 +23,7 @@ class Solution:
             front = front.next
         back.next = None
         if first:
-            return None
+            first = None
+            return first
         return head
                 
