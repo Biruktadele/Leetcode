@@ -1,15 +1,11 @@
 class Solution:
     def countGoodNumbers(self, n: int) -> int:
-       
-        mod =int( 1e9 + 7)
-        c = 1
-        sa1 = pow(5,int(n//2) , mod) 
-        sa2 = pow(4,int(n//2) , mod)
-        if n % 2 == 0:
-            c = (sa1 * sa2) % mod
-        else:
-            c = ((sa1*5)%mod * (sa2 % mod))%mod
+        MOD = 10**9 + 7
+        
+        even_positions = (n + 1) // 2 
+        odd_positions = n // 2  
 
-      
+        even_choices = pow(5, even_positions, MOD)  
+        odd_choices = pow(4, odd_positions, MOD)   
 
-        return c
+        return (even_choices * odd_choices) % MOD
