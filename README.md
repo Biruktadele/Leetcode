@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Biruktadele/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Biruktadele/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Biruktadele/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Biruktadele/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Biruktadele/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Biruktadele/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Biruktadele/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Biruktadele/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Biruktadele/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Biruktadele/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Biruktadele/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Biruktadele/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Biruktadele/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Biruktadele/Leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Biruktadele/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
