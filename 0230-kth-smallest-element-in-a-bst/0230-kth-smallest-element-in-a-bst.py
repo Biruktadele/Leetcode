@@ -6,15 +6,20 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        ans = []
+        self.count = 0
         def dfs(root):
+
             if not root:
-                return
-            dfs(root.left)
-            ans.append(root.val)
-            dfs(root.right)
-        dfs(root)
-        return ans[k-1]
-        
+                return 
+            left = dfs(root.left)
+            self.count+= 1
+            if self.count == k:
+                return root.val
+            right = dfs(root.right)
+
+            return right if right else left
+
+
+        return dfs(root)
 
         
