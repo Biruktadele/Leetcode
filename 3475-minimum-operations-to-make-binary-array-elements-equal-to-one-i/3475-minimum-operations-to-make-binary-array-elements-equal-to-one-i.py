@@ -12,7 +12,7 @@ class Solution:
                 for i in range(r , r+3):
                     nums[i] = int(not nums[i])
                 c += 1
-        return c if all(nums) else -1
+        return c if nums[-1] == 1 and nums[-2] == 1 else -1
 
 
 
