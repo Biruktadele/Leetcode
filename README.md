@@ -973,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Biruktadele/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Biruktadele/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Biruktadele/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Biruktadele/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Biruktadele/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
