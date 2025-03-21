@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Biruktadele/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Biruktadele/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Biruktadele/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Biruktadele/Leetcode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Biruktadele/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Biruktadele/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Biruktadele/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Biruktadele/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Biruktadele/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Biruktadele/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Biruktadele/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Biruktadele/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Biruktadele/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Biruktadele/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Biruktadele/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Biruktadele/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Biruktadele/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Biruktadele/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Biruktadele/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Biruktadele/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Biruktadele/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Biruktadele/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -1001,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Biruktadele/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Biruktadele/Leetcode/tree/master/0100-same-tree) |
