@@ -1,13 +1,23 @@
 class Solution:
     def punishmentNumber(self, n: int) -> int:
-        arr = [1,9,10,36,45,55,82,91,99,100,235,297,369,370,379,414,
-               657,675,703,756,792,909,918,945,964,990,991,999,1000]
         
-        total = 0
-        for num in arr:
-            if num <= n:
-                total += num * num
-            else:
-                break
-        return total
+        def dfs(num , s , f , path):
+           
+            if f >= len(s):
+                if num == sum(path):
+                    self.ans = True
+                return 
+            
+            for i in range(f, len(s)):
+                path.append(int(s[f:i+1]))
+                dfs(num , s , i+1 , path)
+                path.pop()
+        summ = 0
+        for i in range(1,n+1):
+            s = str(i**2)
+            self.ans = False
+            dfs(i , s , 0 , [])
+            if self.ans:
+                summ += i**2
+        return summ
         
