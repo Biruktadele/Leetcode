@@ -1,7 +1,6 @@
 class Solution:
     def numTilePossibilities(self, tiles: str) -> int:
-    
-        ans = []
+
         def dfs(s ,c , vist ,path, f):
             if c == len(s):
                 sr = "".join(path)
@@ -16,7 +15,7 @@ class Solution:
                 path.pop()
                 dfs(s, c+1, vist, path , i+1)
                 vist.remove(i)
-                
 
+        ans = []    
         dfs(tiles, 0 , set() ,[], 0)
         return (len(set((ans))) - 1)
