@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Biruktadele/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Biruktadele/Leetcode/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3447-clear-digits](https://github.com/Biruktadele/Leetcode/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Biruktadele/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Biruktadele/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biruktadele/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Biruktadele/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Biruktadele/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Biruktadele/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Biruktadele/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Biruktadele/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Biruktadele/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Biruktadele/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
