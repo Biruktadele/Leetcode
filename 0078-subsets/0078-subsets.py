@@ -1,6 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans = []
+
 
         def dfs(num , level ,path):
             if level >= len(num):
@@ -13,6 +13,7 @@ class Solution:
                 dfs(num , i + 1 ,path)
                 path.pop()
                 dfs(num , i + 1 ,path)
+        ans = []
         dfs(nums , 0 ,[])
         return ans
 
