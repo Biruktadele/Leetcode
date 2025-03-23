@@ -1,6 +1,6 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        ans = []
+        
         def comb(n , k, c , f , path):
 
             if k == c:
@@ -13,6 +13,7 @@ class Solution:
                     path.add(i)
                     comb(n , k, c+1 , i +1, path)
                     path.remove(i)
+        ans = []
         comb(n , k, 0, 1 ,set())
         return ans
             
