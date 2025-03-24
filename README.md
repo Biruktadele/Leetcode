@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Biruktadele/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Biruktadele/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biruktadele/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Biruktadele/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Biruktadele/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Biruktadele/Leetcode/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Biruktadele/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Biruktadele/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Biruktadele/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1287,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Number Theory
 |  |
 | ------- |
