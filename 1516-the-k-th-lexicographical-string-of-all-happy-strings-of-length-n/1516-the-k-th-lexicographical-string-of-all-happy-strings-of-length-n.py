@@ -3,7 +3,7 @@ class Solution:
         s = "abc"
 
         self.count = 0
-        ans = []
+
         def dfs(s,n,k,path):
            
             if len(path) == n:
@@ -18,7 +18,7 @@ class Solution:
                     path.pop()
                     if len(ans) > 0:
                         return
-
-            
+        s = "abc"
+        ans = []
         dfs(s,n,k,[])
         return ans[0] if ans else ""
