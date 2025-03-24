@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Biruktadele/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Biruktadele/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Biruktadele/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Biruktadele/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biruktadele/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Biruktadele/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Biruktadele/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Biruktadele/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Biruktadele/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Biruktadele/Leetcode/tree/master/0389-find-the-difference) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Biruktadele/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Biruktadele/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Biruktadele/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Biruktadele/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Biruktadele/Leetcode/tree/master/0567-permutation-in-string) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Biruktadele/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Biruktadele/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Biruktadele/Leetcode/tree/master/0792-binary-search) |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Biruktadele/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Biruktadele/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Biruktadele/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Biruktadele/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Biruktadele/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Biruktadele/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Biruktadele/Leetcode/tree/master/0414-third-maximum-number) |
