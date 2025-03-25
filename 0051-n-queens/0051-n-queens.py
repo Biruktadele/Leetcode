@@ -43,6 +43,7 @@ class Solution:
             return ans
 
 
+
         s = []
         for i in range(n):
             s.append(list('.'*n))
