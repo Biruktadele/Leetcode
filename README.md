@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Biruktadele/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Biruktadele/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Biruktadele/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Biruktadele/Leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Biruktadele/Leetcode/tree/master/1449-print-words-vertically) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biruktadele/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Biruktadele/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Biruktadele/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biruktadele/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Biruktadele/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Biruktadele/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Biruktadele/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1449-print-words-vertically](https://github.com/Biruktadele/Leetcode/tree/master/1449-print-words-vertically) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Biruktadele/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Biruktadele/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Biruktadele/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biruktadele/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Biruktadele/Leetcode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Biruktadele/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -1308,4 +1313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Biruktadele/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Biruktadele/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
