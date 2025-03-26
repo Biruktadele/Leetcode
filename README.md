@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Biruktadele/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/Biruktadele/Leetcode/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Biruktadele/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/Biruktadele/Leetcode/tree/master/0971-shortest-bridge) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Biruktadele/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/Biruktadele/Leetcode/tree/master/0947-online-election) |
 | [0966-binary-subarrays-with-sum](https://github.com/Biruktadele/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biruktadele/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Biruktadele/Leetcode/tree/master/1044-find-common-characters) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Biruktadele/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Biruktadele/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0947-online-election](https://github.com/Biruktadele/Leetcode/tree/master/0947-online-election) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Biruktadele/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Biruktadele/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Biruktadele/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biruktadele/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Biruktadele/Leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Biruktadele/Leetcode/tree/master/0859-design-circular-deque) |
+| [0947-online-election](https://github.com/Biruktadele/Leetcode/tree/master/0947-online-election) |
 | [0969-number-of-recent-calls](https://github.com/Biruktadele/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Biruktadele/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
