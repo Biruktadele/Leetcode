@@ -15,10 +15,11 @@ class Solution:
                 dfs(k,path,vist)
                 path.pop()
                 if len(ans) == 1:
-                    return 
+                    return
+        k = len(nums) 
         vist = set(nums)
         print(vist)
-        k = len(nums)
+        
         dfs(k, [] , vist)
         return "".join(ans[0])
         
