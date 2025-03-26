@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Biruktadele/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/Biruktadele/Leetcode/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Biruktadele/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Biruktadele/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Biruktadele/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Biruktadele/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Biruktadele/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/Biruktadele/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Biruktadele/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Biruktadele/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Biruktadele/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Biruktadele/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Biruktadele/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Biruktadele/Leetcode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Biruktadele/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Biruktadele/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Biruktadele/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Biruktadele/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Biruktadele/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Biruktadele/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2145-grid-game](https://github.com/Biruktadele/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Biruktadele/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Biruktadele/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Biruktadele/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Biruktadele/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
