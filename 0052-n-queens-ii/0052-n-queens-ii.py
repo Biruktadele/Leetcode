@@ -21,12 +21,12 @@ class Solution:
                 a -= 1
                 b += 1
             return True
-        def dfs(n,i,j,ans):
+        def dfs(n,i,j):
             r,c = len(n),len(n[0])
 
             if i == r :
 
-                ans.append(["".join(row[:]) for row in n])
+                self.ans += 1
                 
                 return
 
@@ -34,17 +34,15 @@ class Solution:
                 if not chek(n,i,a):
                     continue
                 n[i][a] = 'Q'
-                dfs(n,i+1,a,ans)
+                dfs(n,i+1,a)
                 n[i][a] = '.'
 
-
-
-
-            return ans
+            return
 
 
         s = []
+        self.ans = 0
         for i in range(n):
             s.append(list('.'*n))
-
-        return len(dfs(s,0,0,[]))
+        dfs(s,0,0)
+        return self.ans
