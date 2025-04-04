@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Biruktadele/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Biruktadele/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Biruktadele/Leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Biruktadele/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Biruktadele/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Biruktadele/Leetcode/tree/master/0409-longest-palindrome) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Biruktadele/Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Biruktadele/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/Biruktadele/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Biruktadele/Leetcode/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Biruktadele/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Biruktadele/Leetcode/tree/master/1160-letter-tile-possibilities) |
