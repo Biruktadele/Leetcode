@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Biruktadele/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Biruktadele/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3651-transformed-array](https://github.com/Biruktadele/Leetcode/tree/master/3651-transformed-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Biruktadele/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3699-count-special-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/3699-count-special-subsequences) |
 ## Backtracking
 |  |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Biruktadele/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Biruktadele/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Biruktadele/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Biruktadele/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3699-count-special-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/3699-count-special-subsequences) |
 ## Two Pointers
 |  |
