@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Biruktadele/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Biruktadele/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/Biruktadele/Leetcode/tree/master/2502-sort-the-people) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Biruktadele/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Biruktadele/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Biruktadele/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Biruktadele/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Biruktadele/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Biruktadele/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Biruktadele/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Queue
 |  |
 | ------- |
@@ -1311,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2434-design-a-number-container-system](https://github.com/Biruktadele/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -1333,11 +1338,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Game Theory
 |  |
