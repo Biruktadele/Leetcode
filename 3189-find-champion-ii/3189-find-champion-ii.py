@@ -1,16 +1,18 @@
 class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
-        Tr = [True] * n
-
-        for i in edges:
-            Tr[i[1]] = False
-        c = 0
-        for j in range(len(Tr)):
-            i = Tr[j]
-            if i:
-                c += 1
-                x = j
-            if c > 1:
-                return -1
-
-        return x
+    
+        inDeg=[0]*n
+        for i,j in edges:
+            inDeg[j]+=1
+        cnt=0
+        val=-1
+        for i in range(n):
+            if inDeg[i]==0:
+                val=i
+                cnt+=1
+        if cnt>1:
+            return -1
+        return val
+        
+        
+        
