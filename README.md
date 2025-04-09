@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Biruktadele/Leetcode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/Biruktadele/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Biruktadele/Leetcode/tree/master/0695-max-area-of-island) |
 | [0722-remove-comments](https://github.com/Biruktadele/Leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/Biruktadele/Leetcode/tree/master/0724-find-pivot-index) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Biruktadele/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/Biruktadele/Leetcode/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Biruktadele/Leetcode/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/Biruktadele/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Biruktadele/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/Biruktadele/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Biruktadele/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Biruktadele/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/Biruktadele/Leetcode/tree/master/0690-employee-importance) |
 | [0772-construct-quad-tree](https://github.com/Biruktadele/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Biruktadele/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Biruktadele/Leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/Biruktadele/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Biruktadele/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1265,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Biruktadele/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Biruktadele/Leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/Biruktadele/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Biruktadele/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Biruktadele/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Biruktadele/Leetcode/tree/master/0801-is-graph-bipartite) |
