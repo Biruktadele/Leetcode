@@ -3,6 +3,7 @@ class Solution:
         b5 = 0
         b10 = 0
 
+
         for i in bills:
             if i == 5:
                 b5 += 5
