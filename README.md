@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Biruktadele/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Biruktadele/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Biruktadele/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/Biruktadele/Leetcode/tree/master/2342-minimum-average-difference) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Biruktadele/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Biruktadele/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Biruktadele/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Biruktadele/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Queue
 |  |
@@ -1354,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Biruktadele/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -1378,12 +1383,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Game Theory
