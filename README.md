@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Biruktadele/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biruktadele/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Biruktadele/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1168,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Biruktadele/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Biruktadele/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Biruktadele/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Biruktadele/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -1268,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Biruktadele/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/Biruktadele/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -1289,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Biruktadele/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Biruktadele/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
