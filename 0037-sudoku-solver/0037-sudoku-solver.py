@@ -1,6 +1,7 @@
 class Solution:
     def solveSudoku(self, board: List[List[str]]) -> None:
         ans = []
+        
         ver = [set() ,set(), set(),set(),set(),set(),set(),set(),set()]
         hor = [set() ,set(), set(),set(),set(),set(),set(),set(),set()]
         box = [set() ,set(), set(),set(),set(),set(),set(),set(),set()]
