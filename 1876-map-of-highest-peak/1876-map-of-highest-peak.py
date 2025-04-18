@@ -1,24 +1,30 @@
 class Solution:
     def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
-        R = len(isWater)
-        C = len(isWater[0])
-        height = [[float('inf')] * C for _ in range(R)]
+        q = deque()
+        vist = set()
+        def inbound(x, y, n, m): return 0 <= x < n and 0 <= y < m
 
-        for i in range(R):
-            for j in range(C):
+        row , col = len(isWater) , len(isWater[0])
+        for i in range(row):
+            for j in range(col):
                 if isWater[i][j] == 1:
-                    height[i][j] = 0
-                else:
-                    if i > 0:
-                        height[i][j] = min(height[i][j], height[i - 1][j] + 1)
-                    if j > 0:
-                        height[i][j] = min(height[i][j], height[i][j - 1] + 1)
+                    q.append((i,j))
+                    vist.add((i,j))
+        level = 0
+        while q:
+            l = len(q)
+  
+            for i in range(l):
+                r , c = q.popleft()
+      
+                isWater[r][c] = level
+                for u ,v in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+                    nr = u + r
+                    nc = v + c
+                    if inbound(nr , nc , row,col) and (nr, nc) not in vist:
+                        q.append((nr, nc))
+                        vist.add((nr, nc))
+            level += 1
+        return isWater
 
-        for i in range(R - 1, -1, -1):
-            for j in range(C - 1, -1, -1):
-                if i < R - 1:
-                    height[i][j] = min(height[i][j], height[i + 1][j] + 1)
-                if j < C - 1:
-                    height[i][j] = min(height[i][j], height[i][j + 1] + 1)
 
-        return height
