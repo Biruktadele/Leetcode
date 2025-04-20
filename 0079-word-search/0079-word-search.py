@@ -4,6 +4,7 @@ class Solution:
         def dfs(board , r,c , word , i , vist):
             row , col = len(board) , len(board[0])
          
+         
             if i == len(word):
                 return True
             if r >= row or r < 0 or c >= col or c < 0 or (r,c) in vist or board[r][c] != word[i]: 
