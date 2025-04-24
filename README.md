@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Biruktadele/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Biruktadele/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/Biruktadele/Leetcode/tree/master/1086-divisor-game) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Biruktadele/Leetcode/tree/master/1044-find-common-characters) |
 | [1063-best-sightseeing-pair](https://github.com/Biruktadele/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1095-two-city-scheduling](https://github.com/Biruktadele/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Biruktadele/Leetcode/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/Biruktadele/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Biruktadele/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Biruktadele/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Biruktadele/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biruktadele/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
