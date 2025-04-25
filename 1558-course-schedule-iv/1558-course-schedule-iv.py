@@ -13,7 +13,8 @@ class Solution:
             vist.add(node)
             res = False
             for u in graph[node]:
-                res = res or dfs(u , targe , vist)
+                if dfs(u , targe , vist):
+                    return True
             return res
         ans = []
         for i in queries:
