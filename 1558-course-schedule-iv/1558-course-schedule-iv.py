@@ -1,24 +1,26 @@
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
-        prereq_map = defaultdict(list) # course -> prereqs
 
-        for prereq in prerequisites:
-            prereq_map[prereq[1]].append(prereq[0])
+        graph = defaultdict(list)
+        for u , v in prerequisites:
+            graph[v].append(u)
 
-        res = []
-        memo = {}
-        def dfs(course, prereq):
-            if (course, prereq) in memo:
-                return memo[(course, prereq)]
-            
-            course_prereqs = prereq_map[course]
-            for p in course_prereqs:
-                if p == prereq or dfs(p, prereq):
-                    memo[(course, prereq)] = True
-                    return True
-            
-            memo[(course, prereq)] = False
-            return False
-                
-        return [dfs(query[1], query[0]) for query in queries]
+        def dfs(node , targe , vist):
+            if node in vist:
+                return False
+            if node == targe:
+                return True
+            vist.add(node)
+            res = False
+            for u in graph[node]:
+                res = res or dfs(u , targe , vist)
+            return res
+        ans = []
+        for i in queries:
+            ans.append(dfs(i[1] , i[0] , set()))
+        return ans
+
+
+
+
         
