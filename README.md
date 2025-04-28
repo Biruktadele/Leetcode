@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/Biruktadele/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Biruktadele/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Biruktadele/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Biruktadele/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Biruktadele/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Biruktadele/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Biruktadele/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Biruktadele/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biruktadele/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Biruktadele/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biruktadele/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Biruktadele/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Biruktadele/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1160,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/Biruktadele/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2342-minimum-average-difference](https://github.com/Biruktadele/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Biruktadele/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Biruktadele/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Biruktadele/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/Biruktadele/Leetcode/tree/master/2574-count-subarrays-with-median-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
