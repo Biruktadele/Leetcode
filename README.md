@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Biruktadele/Leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Biruktadele/Leetcode/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/Biruktadele/Leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Biruktadele/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Biruktadele/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -1064,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Biruktadele/Leetcode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Biruktadele/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/Biruktadele/Leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Biruktadele/Leetcode/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Biruktadele/Leetcode/tree/master/0695-max-area-of-island) |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Biruktadele/Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Biruktadele/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Biruktadele/Leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Biruktadele/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Biruktadele/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Biruktadele/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -1360,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Biruktadele/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Biruktadele/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Biruktadele/Leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Biruktadele/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Biruktadele/Leetcode/tree/master/0617-merge-two-binary-trees) |
