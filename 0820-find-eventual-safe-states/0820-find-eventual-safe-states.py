@@ -2,6 +2,7 @@ class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
         l = len(graph)
         safe = {}
+        
         def dfs(i):
             if i in safe:
                 return safe[i]
