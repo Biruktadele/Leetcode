@@ -1,23 +1,39 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         
-        con = defaultdict(list)
-        for i in range(len(isConnected)):
-            for j in range(len(isConnected[i])):
-                if j != i and isConnected[i][j] == 1:
-                    con[i].append(j)
-        self.vist = set()
+        size = 0
+        row , col = len(isConnected) ,len(isConnected)
+        parent = [i for i in range(row+1)]
+        rank = [i for i in range(row+1)]
+        comp = row
+        def find(x):
+            if x == parent[x]:
+                return x
+            return find(parent[x])
+        def uninon(x , y):
+            nonlocal comp
+            rx = find(x)
+            ry = find(y)
 
-        def comp(v):
-            if not con[v] or v in self.vist:
-                return
-            self.vist.add(v)
-            for u in con[v]:
-                comp(u)
-        notconnecteds = 0
-        for i in range(len(isConnected)):
-            if i not in self.vist:
-                comp(i)
-                notconnecteds += 1
-        return notconnecteds
+            if rx == ry:
+                return 
+            if rank[rx] > rank[ry]:
+                parent[ry] = rx
+ 
+            elif rank[rx] < rank[ry]:
+                parent[rx] = ry
+          
+            else:
+                parent[rx] = ry
+                rank[ry] += 1
+            comp -= 1
+        for i in range(row):
+            for j in range(col):
+                if isConnected[i][j] == 1:
+                    uninon(i , j)
+        return comp
+
+
+        
+
       
