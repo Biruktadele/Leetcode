@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Biruktadele/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Biruktadele/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biruktadele/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biruktadele/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/Biruktadele/Leetcode/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Biruktadele/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Biruktadele/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Biruktadele/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/Biruktadele/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Biruktadele/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Biruktadele/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Biruktadele/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Biruktadele/Leetcode/tree/master/3189-find-champion-ii) |
@@ -1245,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Biruktadele/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2384-root-equals-sum-of-children](https://github.com/Biruktadele/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1307,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/Biruktadele/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Biruktadele/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1548,6 +1553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/Biruktadele/Leetcode/tree/master/2176-parallel-courses-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Biruktadele/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Biruktadele/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Design
 |  |
