@@ -21,6 +21,7 @@ class Solution:
 
         l = 0
         r = len(queries)
+        
         best = -1
         
         while l <= r:
