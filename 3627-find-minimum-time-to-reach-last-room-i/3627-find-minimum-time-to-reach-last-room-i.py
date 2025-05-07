@@ -3,6 +3,7 @@ class Solution:
         def inbound(x, y, n, m): return 0 <= x < n and 0 <= y < m
 
         row , col = len(moveTime) , len(moveTime[0])
+        
         heap = [[0 , 0 ,0]]
         vist = set((0,0))
         while heap:
