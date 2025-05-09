@@ -1,24 +1,25 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        l = len(graph)
-        safe = {}
+        graph1 = defaultdict(list)
+        indgree = [0] * len(graph)
+        for i in range(len(graph)):
+            for j in graph[i]:
+                graph1[j].append(i)
+                indgree[i] += 1
+        # print(graph1)
+        q = deque()
+        # print(indgree)
         
-        def dfs(i):
-            if i in safe:
-                return safe[i]
-            safe[i] = False
-
-            for neg in graph[i]:
-                if not dfs(neg):
-                    return False
-            safe[i] = True
-            return safe[i]
-
-
-
-
-        res = []
-        for i in range(l):
-            if dfs(i):
-                res.append(i)
-        return res
+        for j , i in enumerate(indgree):
+            if indgree[j] == 0:
+                q.append(j)
+        ans = []
+        # print(q)
+        while q:
+            curr = q.popleft()
+            ans.append(curr)
+            for u in graph1[curr]:
+                indgree[u] -= 1
+                if indgree[u] == 0:
+                    q.append(u)
+        return sorted(ans)
