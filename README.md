@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Biruktadele/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Biruktadele/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1139,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Biruktadele/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Biruktadele/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Biruktadele/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Biruktadele/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Biruktadele/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Biruktadele/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Biruktadele/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -1456,6 +1459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Biruktadele/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Biruktadele/Leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Biruktadele/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Biruktadele/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Biruktadele/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1578,6 +1582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Biruktadele/Leetcode/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Biruktadele/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1396-count-servers-that-communicate](https://github.com/Biruktadele/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Biruktadele/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biruktadele/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
