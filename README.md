@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Biruktadele/Leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Biruktadele/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Biruktadele/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1293-three-consecutive-odds](https://github.com/Biruktadele/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Biruktadele/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Biruktadele/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Biruktadele/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
