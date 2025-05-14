@@ -1,21 +1,21 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-
-
-        def dfs(num , level ,path):
-            if level >= len(num):
-                if path not in ans:
-                    ans.append(path[:])
-                return
-
-            for i in range(level , len(num)):
-                path.append(num[i])
-                dfs(num , i + 1 ,path)
-                path.pop()
-                dfs(num , i + 1 ,path)
+        n = "1"*len(nums)
+        n = int(n,2)
+        # print(n)
         ans = []
-        dfs(nums , 0 ,[])
+        for i in range(n+1):
+            t = bin(i)[2:]
+            t = t[::-1]
+            res = []
+            for i in range(len(nums)):
+                if i < len(t) and t[i] == "1":
+                    res.append(nums[i])
+            ans.append(res)
         return ans
+
+
+        
 
 
         
