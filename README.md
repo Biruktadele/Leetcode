@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1791-richest-customer-wealth](https://github.com/Biruktadele/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biruktadele/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1839-decode-xored-array](https://github.com/Biruktadele/Leetcode/tree/master/1839-decode-xored-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Biruktadele/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Biruktadele/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Biruktadele/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1839-decode-xored-array](https://github.com/Biruktadele/Leetcode/tree/master/1839-decode-xored-array) |
 | [2044-number-of-wonderful-substrings](https://github.com/Biruktadele/Leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Biruktadele/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Biruktadele/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
