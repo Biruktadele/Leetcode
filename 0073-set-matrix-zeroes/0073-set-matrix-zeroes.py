@@ -7,6 +7,8 @@ class Solution:
         col = set()
         r = len(matrix)
         c = len(matrix[0])
+        
+        
         for i in range(r):
             for j in range(c):
                 if matrix[i][j] == 0:
@@ -16,6 +18,9 @@ class Solution:
             for j in range(c):
                 if i in row or j in col:
                     matrix[i][j] = 0
+                    
+
+                
         
         
         
