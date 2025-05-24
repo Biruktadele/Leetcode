@@ -1,6 +1,6 @@
 class Solution:
-    def findWordsContaining(self, words: List[str], x: str) -> List[int]:
-        word = [set(i) for i in words]
+    def findWordsContaining(self, word: List[str], x: str) -> List[int]:
+        # word = [set(i) for i in words]
         ans = []
         for i in range(len(word)):
             if x in word[i]:
