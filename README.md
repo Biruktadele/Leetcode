@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Biruktadele/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Biruktadele/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Biruktadele/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1764-maximum-repeating-substring](https://github.com/Biruktadele/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1894-merge-strings-alternately](https://github.com/Biruktadele/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Biruktadele/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Biruktadele/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biruktadele/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Biruktadele/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1764-maximum-repeating-substring](https://github.com/Biruktadele/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Biruktadele/Leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Biruktadele/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Biruktadele/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Biruktadele/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Biruktadele/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Biruktadele/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Biruktadele/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
