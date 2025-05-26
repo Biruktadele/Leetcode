@@ -3,6 +3,7 @@ class Solution:
         people.sort()
 
         l = 0
+        
         r = len(people)-1
         c = 0
         while l <= r:
