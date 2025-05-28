@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Biruktadele/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0883-car-fleet](https://github.com/Biruktadele/Leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/Biruktadele/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Biruktadele/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Biruktadele/Leetcode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/Biruktadele/Leetcode/tree/master/0876-hand-of-straights) |
+| [0883-car-fleet](https://github.com/Biruktadele/Leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/Biruktadele/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biruktadele/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -854,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Biruktadele/Leetcode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Biruktadele/Leetcode/tree/master/0876-hand-of-straights) |
+| [0883-car-fleet](https://github.com/Biruktadele/Leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Biruktadele/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Biruktadele/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -1232,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Biruktadele/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Biruktadele/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Biruktadele/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0883-car-fleet](https://github.com/Biruktadele/Leetcode/tree/master/0883-car-fleet) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Biruktadele/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Biruktadele/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Biruktadele/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
