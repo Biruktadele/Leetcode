@@ -932,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Biruktadele/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Biruktadele/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Biruktadele/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Biruktadele/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Biruktadele/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Biruktadele/Leetcode/tree/master/3189-find-champion-ii) |
@@ -1434,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Biruktadele/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/Biruktadele/Leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Biruktadele/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Biruktadele/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Biruktadele/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Biruktadele/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
