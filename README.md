@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Biruktadele/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Biruktadele/Leetcode/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Biruktadele/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Biruktadele/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Biruktadele/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Biruktadele/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3055-maximum-odd-binary-number](https://github.com/Biruktadele/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Biruktadele/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Biruktadele/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Biruktadele/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Biruktadele/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Biruktadele/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Biruktadele/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Biruktadele/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Biruktadele/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Biruktadele/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2681-put-marbles-in-bags](https://github.com/Biruktadele/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Biruktadele/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Biruktadele/Leetcode/tree/master/2690-house-robber-iv) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Biruktadele/Leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Biruktadele/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Biruktadele/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Biruktadele/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Biruktadele/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biruktadele/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
