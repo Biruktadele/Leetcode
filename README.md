@@ -1417,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Biruktadele/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/Biruktadele/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Biruktadele/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/Biruktadele/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Biruktadele/Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Biruktadele/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1669,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Biruktadele/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Biruktadele/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
