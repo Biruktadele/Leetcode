@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Biruktadele/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1044-find-common-characters](https://github.com/Biruktadele/Leetcode/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Biruktadele/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Biruktadele/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Biruktadele/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Biruktadele/Leetcode/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/Biruktadele/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Biruktadele/Leetcode/tree/master/0861-flipping-an-image) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Biruktadele/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Biruktadele/Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Biruktadele/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Biruktadele/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Biruktadele/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Biruktadele/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/Biruktadele/Leetcode/tree/master/1044-find-common-characters) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Biruktadele/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Biruktadele/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Biruktadele/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/Biruktadele/Leetcode/tree/master/1217-relative-sort-array) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Biruktadele/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Biruktadele/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Biruktadele/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Biruktadele/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Biruktadele/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biruktadele/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
