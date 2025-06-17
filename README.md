@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Biruktadele/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Biruktadele/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Biruktadele/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Biruktadele/Leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Biruktadele/Leetcode/tree/master/0260-single-number-iii) |
@@ -1087,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Biruktadele/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Biruktadele/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Biruktadele/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/Biruktadele/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1100,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Biruktadele/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/Biruktadele/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Biruktadele/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Biruktadele/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -1654,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0456-132-pattern](https://github.com/Biruktadele/Leetcode/tree/master/0456-132-pattern) |
 | [0885-exam-room](https://github.com/Biruktadele/Leetcode/tree/master/0885-exam-room) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Biruktadele/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1683,6 +1687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -1690,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Biruktadele/Leetcode/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -1828,6 +1834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Line Sweep
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Biruktadele/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1028-interval-list-intersections](https://github.com/Biruktadele/Leetcode/tree/master/1028-interval-list-intersections) |
 ## Doubly-Linked List
 |  |
