@@ -2,6 +2,7 @@ class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         dic = defaultdict(list)
         r , c = len(mat),len(mat[0])
+        
         ans = []
         for i in range(r):
             for j in range(c):
