@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Biruktadele/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Biruktadele/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Biruktadele/Leetcode/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biruktadele/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Biruktadele/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Biruktadele/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Biruktadele/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/Biruktadele/Leetcode/tree/master/1009-pancake-sorting) |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Biruktadele/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Biruktadele/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Biruktadele/Leetcode/tree/master/1184-car-pooling) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/Biruktadele/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biruktadele/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Biruktadele/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Biruktadele/Leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1125,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biruktadele/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0885-exam-room](https://github.com/Biruktadele/Leetcode/tree/master/0885-exam-room) |
 | [0948-sort-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Biruktadele/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Biruktadele/Leetcode/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/Biruktadele/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -1201,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Biruktadele/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Biruktadele/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Biruktadele/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Biruktadele/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Biruktadele/Leetcode/tree/master/1033-broken-calculator) |
 | [1086-divisor-game](https://github.com/Biruktadele/Leetcode/tree/master/1086-divisor-game) |
@@ -1885,9 +1890,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Biruktadele/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Biruktadele/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Biruktadele/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Biruktadele/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Minimum Spanning Tree
 |  |
