@@ -1,12 +1,20 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        total_sum = sum(nums)
-        if target > total_sum or (total_sum - target) % 2 != 0:
-            return 0
-        s = (total_sum - target) // 2
-        dp = [0] * (s + 1)
-        dp[0] = 1
-        for num in nums:
-            for j in range(s, num - 1, -1):
-                dp[j] += dp[j - num]
-        return dp[s]
+        memo = {}
+        def bt(index, current_sum):
+            if index == len(nums):
+                return 1 if current_sum == target else 0
+            
+            #check cache
+            if (index, current_sum) in memo:
+                return memo[(index, current_sum)]
+            
+            addition = bt(index+1, current_sum + nums[index])
+            subtract = bt(index+1, current_sum - nums[index])
+
+            #add to cache
+            memo[(index, current_sum)] = addition +subtract
+
+            return addition + subtract
+        
+        return bt(0, 0)
